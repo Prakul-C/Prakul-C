@@ -1,5 +1,5 @@
-# Hi 👋, I'm Prakul C
-# Getting ready to fight with the world of code...🆒
+#         Hi 👋, I'm Prakul C
+#   Getting ready to fight with the world of code...🆒
 
 
 # 💻 Tech Stack:
