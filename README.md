@@ -2,8 +2,7 @@
 #      Getting ready to fight with the world of code...🆒
 
 
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
+# 💻 Tech Stack:DSA,PYTHON.
 ![](https://github-readme-stats.vercel.app/api?username=Prakul-C&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prakul-C&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakul-C&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
